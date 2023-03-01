@@ -27,9 +27,7 @@
 
 
 ### Project URL
-<!-- - https://nextjsv1-one.vercel.app/
-- https://nextjsv1.onrender.com/
-- https://main--shimmering-haupia-a6b06d.netlify.app/ -->
+- https://thriving-biscochitos-6ca0e5.netlify.app/
 
 ### Github URL
 - https://github.com/hyperplayer7/gatsbyv1
@@ -38,8 +36,10 @@
 - https://www.gatsbyjs.com/docs/tutorial/part-4/#use-graphiql-to-explore-the-data-layer-and-write-graphql-queries
 - https://github.com/gatsbyjs/gatsby-starter-blog
 - https://github.com/Ileriayo/markdown-badges
+- https://www.elian.codes/blog/21-12-03-set-your-node-version-in-netlify/
 
 ### Notes
+- Add node version in the netlify environment to work
 - Your site is now running at http://localhost:8000
 - Note: You'll also see a second link: http://localhost:8000/___graphql
 
